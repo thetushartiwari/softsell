@@ -1,5 +1,7 @@
 # SoftSell - Software License Resale Platform
 
+live link - https://softsell-henna-five.vercel.app/
+
 A responsive, single-page marketing website for a fictional software license resale startup called "SoftSell".
 
 ## Features Implemented
@@ -68,8 +70,4 @@ cd softsell
 # Install dependencies
 npm install
 
-# Start the development server
-npm run dev
-\`\`\`
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
